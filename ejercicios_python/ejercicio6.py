@@ -29,6 +29,6 @@ print(l1.obtenerInfo())
 print(l2.obtenerInfo())
 
 print(l1.esClasico())
-print(l2.esClasico())
+print(l2.esClasico()) 
   
   
